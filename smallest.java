@@ -19,6 +19,6 @@ class smallest{
                 small=arr[i];
             }
         }
-        System.out.println(small); //to print the smallest value of array
+        System.out.println(big); //to print the smallest value of array
     }
 }

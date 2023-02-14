@@ -19,6 +19,6 @@ class biggestarr{
                 big=arr[i];
             }
         }
-        System.out.println(big); //to print the smallest value of array
+        System.out.println(big); //to print the biggest value of array
     }
 }
